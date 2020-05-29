@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="profile_name">H M Masum Billah</string>
+    <string name="profile_deg">Android Developer</string>
+    <string name="address">2776  Newton Street </string>
+    <string name="email">masum@masum-billah.com</string>
+    <string name="phone">+88 0123 456789</string>
+    <string name="profile_image_dsc">Profile image</string>
+    <string name="home_icon">Home Icon</string>
+    <string name="start_icon">Start Icon</string>
+    <string name="email_icon">email icon</string>
+    <string name="address_icon">Address icon</string>
+    <string name="alt_email_icon">Alt Email Icon</string>
+    <string name="phone_icon">Phone Icon</string>
+    <string name="clock_icon">clock icon</string>
+    <string name="working_time">Fir - Mon: 9.00 to 17.00</string>
+</resources>
